@@ -1,0 +1,23 @@
+h1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+div {
+    background-color:#eeeeee;
+    padding:5px;	      
+}
+
+img {
+    padding:10px;	 	 
+}
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
